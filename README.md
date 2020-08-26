@@ -1,3 +1,5 @@
+![A token is a moving target](./Images/Token-moving-target.png)
+
 # **Definitions**
 
 ## **Tokenomics**
