@@ -24,7 +24,7 @@ The outcome of a classification or an exercise to put a real world situation in 
 #### Having said that, that we happily offer:
  - [Examples](./Examples.md) of tokenization
  - More detailed [objectives](./Objectives.md) of this project
- - A list of [roles] that stakeholders in a token ecosystem can fullfil
+ - A list of [roles] that stakeholders in a token ecosystem can fullfil<br/>
 These are the benefits of getting our group involved:<br/>
 1. Classification method [comparison](./ComparisonTC)
 2. Deterministic token classification
