@@ -8,7 +8,7 @@ So what can we do to get hold of the topic? We need handles. Firstly we start wi
  - **Asset identification**, when done right will prevail through a product's lifecycle. The valuation is another topic that will be addressed in financial assessment as a part of the [Reality check](./Realitycheck.md)
  
 # The moving target captured as much as possible
-
+![A token is a moving target](./Images/Token-moving-target.png)
 #### Benchmarking
 TBW
 
