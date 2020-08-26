@@ -45,3 +45,6 @@ CAAS refers to cryptocurrencies that allow more people to create their own token
 5. **Utility Token**  
 Utility tokens are tokens that users will consume in exchange for a service. Each service provider runs his own tokenised system, where users will purchase the credits and use it in exchange for his services. This is similar to how you would purchase tokens to play (service) in an arcade (service provider).
 For example, you can buy the tokens of a coin exchange to pay for your transaction fees for trading services on the exchange e.g. Binance Coin (BNB). You can also buy the credits of a marketplace in order to use its services e.g. Dentacoin (DCN), LockChain (LOC), SpankChain (SPANK).
+
+Reference to:
+https://github.com/InterWorkAlliance/TokenTaxonomyFramework
